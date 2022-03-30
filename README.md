@@ -4,7 +4,11 @@ Per prima cosa appaiono il titolo, uno spazio in cui inserire il nickname, una l
 Insieme alle bombe, più raramente, cadranno anche dei bonus con probabilità di spawn equivalenti, che se presi ti aiuteranno durante la tua partita :) .
 
 BONUS
-Monaca di Monza: Compare un'aurea attorno al player, la prima bomba che lo colpisce dopo il bonus non fa danno.
-Fra Cristoforo: Con una preghiera rallenta la caduta delle bombe per 8 secondi.
-L'innominato: Spaventa Don rodrigo che sale di quota, allungando il tempo di discesa delle bombe. Ritorna alla posizione inizle dopo 8 secondi. 
-Agnese: Aiuta il player a schivare le bombe rendendolo più piccolo. 
+
+Monaca di Monza: compare un'aurea attorno al player, la prima bomba che lo colpisce dopo il bonus non fa danno.
+
+Fra Cristoforo: con una preghiera rallenta la caduta delle bombe per 8 secondi.
+
+L'innominato: spaventa Don rodrigo che sale di quota, allungando il tempo di discesa delle bombe. Ritorna alla posizione inizle dopo 8 secondi. 
+
+Agnese: aiuta il player a schivare le bombe rendendolo più piccolo. 
